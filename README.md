@@ -3,7 +3,7 @@ This application Implements a secure SMTP protocol using python capable of sendi
 
 
 Technologies used:
-Python, SSL, Base64, SMTP protocol
+Python, SSL, Base64, SMTP protocol.
 
 Application's key features:
 
